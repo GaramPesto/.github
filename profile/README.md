@@ -16,6 +16,8 @@ How can the community get involved?
 ### 📫💬 Feedback
 If you have any feedback, please reach out to us at fake@fake.com
 
+<!-- Maybe it can stop here idk -->
+
 ## 👩‍💻 Useful resources
 Where can the community find your docs? Is there anything else the community should know?
 
