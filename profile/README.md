@@ -4,8 +4,8 @@
 Short introduction
 
 ## 🧠 Authors
-- []()
-- [@OrsolaMBorrini](
+- [@ManuSrivastava1](https://github.com/ManuSrivastava1)
+- [@OrsolaMBorrini](https://github.com/OrsolaMBorrini)
 
 ## 🛠 Skills/Tools
 Javascript, HTML, CSS...
@@ -26,7 +26,6 @@ lol idk
 
 
 ## License
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [MIT](https://choosealicense.com/licenses/mit/)
 
